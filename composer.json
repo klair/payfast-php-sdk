@@ -1,5 +1,5 @@
 {
-    "name": "payfast/payfast-php-sdk",
+    "name": "payfastsdk/payfast-php-sdk",
     "description": "PayFast PHP Library",
     "keywords": [
         "payfast",

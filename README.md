@@ -16,7 +16,7 @@ See the [Developer Docs](https://developers.payfast.co.za/docs)
 You can install the library via [Composer](http://getcomposer.org/). Run the following command:
 
 ```bash
-composer require payfast/payfast-php-sdk
+composer require payfastsdk/payfast-php-sdk
 ```
 
 To use the library, use Composer's [autoload](https://getcomposer.org/doc/01-basic-usage.md#autoloading):
